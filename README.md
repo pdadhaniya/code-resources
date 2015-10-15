@@ -33,3 +33,51 @@ TDD - https://www.youtube.com/watch?v=FH-4AHAwp7w&feature=youtu.be
 JSONp - http://infiniteundo.com/post/99081302908/how-to-convert-a-logfile-to-jsonp-with-jq-the-json?sf32132086=1
 
 JavaScript Prototypes Part 2 - https://www.youtube.com/watch?v=xLNySpJiiuc&sf32135860=1
+
+Framework Comp - https://www.airpair.com/js/javascript-framework-comparison?sf30294571=1
+
+REST API - http://reqr.es/
+
+Debugging - http://code.tutsplus.com/tutorials/modern-debugging-experience-part-2--cms-22584
+
+Getting Started with React - http://code.tutsplus.com/courses/getting-started-with-reactjs
+
+AngularJS Promises - http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/
+
+Swift Fundamentals - https://www.youtube.com/watch?v=s9UBc6BAUTI&feature=youtu.be
+
+MKS Blog - https://programmingpursuits.wordpress.com/2014/09/26/hackathon-part-1/
+
+RubyConf - https://www.youtube.com/watch?v=bZOnbBJW3a8&feature=youtu.be
+
+Update your Footer - http://updateyourfooter.com/
+
+Dashboard Templates - http://keen.github.io/dashboards/
+
+Two Pillars of JS - https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+
+Responsive Design - http://www.fastcodesign.com/3036091/the-next-big-thing-in-responsive-design
+
+Common Rails Mistakes - http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make
+
+Jquery Deferred Promise - http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/
+
+CS Khan Academy - https://www.khanacademy.org/computing/computer-science/algorithms
+
+Grid comparison - http://www.sitepoint.com/grid-system-comparison-bootstrap-vs-foundation/
+
+Responsive Web Design - http://blog.froont.com/9-basic-principles-of-responsive-web-design/
+
+Pipe's Dotfiles - https://github.com/Dudemullet/dotfiles#ppop
+
+Hadoop - http://hortonworks.com/big-data-insights/hadoop-internet-things-better-together/?utm_source=twitter&utm_medium=social&utm_campaign=bigdatainsights
+
+MegaList of Resources - https://github.com/DesignationLabs/MegaListofResources
+
+CSS - http://www.slideshare.net/maxdesign/css-oocss-and-smacss
+
+Learning React - https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+
+Positioning in Web Design - http://blog.froont.com/positioning-in-web-design/
+
+Thoughtbot Blog - https://robots.thoughtbot.com/
