@@ -81,3 +81,92 @@ Learning React - https://scotch.io/tutorials/learning-react-getting-started-and-
 Positioning in Web Design - http://blog.froont.com/positioning-in-web-design/
 
 Thoughtbot Blog - https://robots.thoughtbot.com/
+
+HTTP caching - http://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/
+
+Twitter API - http://code.tutsplus.com/tutorials/building-with-the-twitter-api-tweet-storms--cms-22459
+
+Blog - CSV - http://www.eileencodes.com/posts/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you
+
+Array of Things - http://arrayofthings.github.io/
+
+Web Scraping - http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/
+
+Web Design - Links - http://www.webdesignrepo.com/
+
+Front End Interview Questions - https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
+Test driven JS assessment - https://github.com/rmurphey/js-assessment
+
+React components - https://github.com/gearz-lab/react-ui
+
+Original jQuery release - http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/
+
+jQuery source code - http://genius.it/5088474/ejohn.org/files/jquery-original.html
+
+API definition - http://sproutsocial.com/insights/what-is-an-api/?utm_campaign=SproutSocial&utm_medium=social&utm_source=twitter&utm_content=1428073481
+
+React Flux Rails - http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/
+
+TDD React - https://github.com/zpratt/react-tdd-guide
+
+React Maps - https://tomchentw.github.io/react-google-maps/
+
+Flux - https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c
+
+Learn SQL - http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
+
+JS the Right Way - http://jstherightway.org/
+
+17 Coding Challenges - http://codecondo.com/coding-challenges/?utm_content=buffer846be&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+Adopting React - http://erikaybar.name/initial-thoughts-on-adopting-react/
+
+Flux Step by Step - http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/
+
+React & Flux - http://gunnariauvinen.com/why-make-a-framework-on-react-and-flux/?utm_content=buffer83dbd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+React Thoughts - http://pomax.github.io/1433888478288/whose-state-is-it-anyway-further-thoughts-about-react
+
+What is Code? - http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+ES6 Destructuring - https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/?utm_content=bufferdac3a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+Material UI - http://material-ui.com/#/
+
+Conquering the Command Line - http://conqueringthecommandline.com/book
+
+Code Reviews - http://glen.nu/ramblings/oncodereview.php
+
+CSS Selector Exercise - http://flukeout.github.io/
+
+HTTP Caching - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+
+Unix Primer - https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown
+
+React for Stupid People - http://blog.andrewray.me/reactjs-for-stupid-people/
+
+Awesome React - https://github.com/enaqx/awesome-react
+
+Initial Git - https://try.github.io/levels/1/challenges/1/?utm_medium=email&utm_campaign=annoucement_git_path&utm_source=mailchimp&utm_content=null
+
+Bootstrap Course - http://campus.codeschool.com/courses/blasting-off-with-bootstrap/contents
+
+Egghead React Lessons - https://egghead.io/technologies/react
+
+Equipping Vim for JavaScript - http://oli.me.uk/2013/06/29/equipping-vim-for-javascript/
+
+Rails Auth Course - https://www.codecademy.com/en/courses/rails-auth
+
+Design Course - http://design.codeschool.com/levels/1
+
+JavaScript.com - https://www.javascript.com/
+
+Code as Craft - https://codeascraft.com/
+
+Eve - http://witheve.github.io/Eve/tutorials/intro%20tutorial/tutorial.html
+
+Technical Interview Cheat Sheet - https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+Why Functional Programming Matters - http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf
+
