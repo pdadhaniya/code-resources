@@ -170,3 +170,9 @@ Technical Interview Cheat Sheet - https://gist.github.com/TSiege/cbb0507082bb18f
 
 Why Functional Programming Matters - http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf
 
+Learn Git - https://www.codecademy.com/en/courses/learn-git
+
+Learn SQL - https://www.codecademy.com/en/courses/learn-sql
+
+Learn the Command Line - https://www.codecademy.com/en/courses/learn-the-command-line
+
