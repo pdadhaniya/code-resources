@@ -176,3 +176,35 @@ Learn SQL - https://www.codecademy.com/en/courses/learn-sql
 
 Learn the Command Line - https://www.codecademy.com/en/courses/learn-the-command-line
 
+Art of the Command Line - https://github.com/jlevy/the-art-of-command-line
+
+ES6 & Beyond - https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch2.md
+
+Hot reloading - https://www.youtube.com/watch?t=1678&v=xsSnOQynTHs
+
+Relay and routing - https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.93vux8pgg
+
+Combining Promises and Generators - http://blog.makersquare.com/2015/09/10/promises-generators/?utm_content=buffer1d456&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+React Native Example App - http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/
+
+NodeJS Optimization Advice - https://top.fse.guru/nodejs-a-quick-optimization-advice-7353b820c92e#.hk2oxv91m
+
+How React is reshaping app development - http://www.geekwire.com/2015/software-engineering-daily-how-facebooks-react-project-is-reshaping-app-development/
+
+Ultimate guide to ruby timeouts - https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts
+
+An API for everything - https://www.producthunt.com/e/an-api-for-everything
+
+Flexbox's Best Kept Secret - https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.t4qfo0xqq
+
+Getting Started with Redux - https://egghead.io/series/getting-started-with-redux
+
+Flexbox Froggy - http://flexboxfroggy.com/#ko
+
+Flexbok Layouts - https://davidwalsh.name/flexbox-layouts
+
+Effective Learning Strategies for Programmers - http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
+
+
+
