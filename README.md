@@ -206,5 +206,8 @@ Flexbok Layouts - https://davidwalsh.name/flexbox-layouts
 
 Effective Learning Strategies for Programmers - http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
 
+Human JavaScript - http://read.humanjavascript.com/ch00-foreword.html
+
+Code Blocks in Ruby - https://www.youtube.com/watch?v=K8uhD8mtorE
 
 
