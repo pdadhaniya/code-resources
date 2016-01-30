@@ -210,4 +210,20 @@ Human JavaScript - http://read.humanjavascript.com/ch00-foreword.html
 
 Code Blocks in Ruby - https://www.youtube.com/watch?v=K8uhD8mtorE
 
+React Patterns - https://github.com/planningcenter/react-patterns
 
+URL Design - http://warpspire.com/posts/url-design/
+
+3 Ways to Integrate React & Rails - http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux
+
+Node Habits - https://blog.heroku.com/archives/2015/11/10/node-habits-2016
+
+SQL - Analyzing Business Metrics - https://www.codecademy.com/learn/sql-analyzing-business-metrics?utm_source=mailgun&utm_campaign=sql_abm_announcement&utm_medium=email_newsletter&utm_content=hero
+
+Angular 2 vs React - https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.3698g6y8s
+
+Free Code Camp - https://github.com/FreeCodeCamp/FreeCodeCamp
+
+JSVerbalExpressions - https://github.com/VerbalExpressions/JSVerbalExpressions
+
+TechPortal Ebooks - https://www.syncfusion.com/resources/techportal/ebooks
