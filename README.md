@@ -227,3 +227,13 @@ Free Code Camp - https://github.com/FreeCodeCamp/FreeCodeCamp
 JSVerbalExpressions - https://github.com/VerbalExpressions/JSVerbalExpressions
 
 TechPortal Ebooks - https://www.syncfusion.com/resources/techportal/ebooks
+
+Jeff's dotfiles - https://github.com/jeffthespasm/dotfiles/blob/master/setup.sh
+
+What's the Flexbox - http://flexbox.io/view/Vj7NZ6FiQvo
+
+Fresh Install - https://gist.github.com/ivebencrazy/fef2711e2dcce5a75d51
+
+Fetch - https://github.com/github/fetch
+
+DB Index - http://www.programmerinterview.com/index.php/database-sql/what-is-an-index/
