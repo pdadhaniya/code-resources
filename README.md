@@ -237,3 +237,56 @@ Fresh Install - https://gist.github.com/ivebencrazy/fef2711e2dcce5a75d51
 Fetch - https://github.com/github/fetch
 
 DB Index - http://www.programmerinterview.com/index.php/database-sql/what-is-an-index/
+
+Node 4.0 - https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d#.hg3fltccv
+
+Where are Docker images stored - http://blog.thoward37.me/articles/where-are-docker-images-stored/
+
+Terminal, shell, tty, console - http://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con
+
+On being a senior engineer - http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+
+Integrate React, ES6, Webpack, Babel, Rails - http://ploughthroughruby.co.uk/2015/11/30/integrate-react-es6-webpack-babel-with-rails.html/
+
+Rails & React II - http://codeloveandboards.com/blog/2014/09/10/rails-and-react-ii-a-real-use-case/
+
+9 things a React beginner should know - https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+ES6 Cheatsheet - https://github.com/DrkSephy/es6-cheatsheet
+
+Oauth2 Simplified - https://aaronparecki.com/2012/07/29/2/oauth2-simplified
+
+React reaction - https://pseudoconcurrentthought.wordpress.com/2016/01/26/my-reaction-to-react/
+
+Never use MongoDB - http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
+
+Rails with React and Jest - https://reactjsnews.com/setting-up-rails-for-react-and-jest
+
+Why programming is difficult - http://joearms.github.io/2014/02/07/why-programming-is-difficult.html
+
+Modern CSS framework based on Flexbox - https://github.com/jgthms/bulma
+
+What's new in Webpack 2 - https://gist.github.com/sokra/27b24881210b56bbaff7
+
+React's JSX other side of the coin - https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.gsxr42lf2
+
+Angular 2 vs React - https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.bs0oubbqw
+
+Starter kit for React + Flux & Express + Postgres - https://github.com/adeperio/base
+
+10 Q's before creating microservices - https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/
+
+Cost of transpiling ES6 - https://github.com/paulirish/The-cost-of-transpiling-es2015-in-2016
+
+Awesome courses to learn CS - https://github.com/prakhar1989/awesome-courses
+
+Learn SQL the hard way - https://learncodethehardway.org/sql/
+
+Awesome postgres - https://github.com/dhamaniasad/awesome-postgres
+
+Free programming books - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+
+Git rebase vs merge - https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa#.j63sstozn
+
+React Conf 2016 - https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY#reactjsconf2016
+
