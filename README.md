@@ -290,3 +290,128 @@ Git rebase vs merge - https://medium.com/@porteneuve/getting-solid-at-git-rebase
 
 React Conf 2016 - https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY#reactjsconf2016
 
+Why we moved to React - https://tech.instacart.com/why-we-moved-to-react/ 
+
+React makes you sad - https://github.com/gaearon/react-makes-you-sad
+
+Surprises in Ruby HTTP Libraries - http://jvns.ca/blog/2016/03/04/whats-up-with-ruby-http-libraries/
+
+Easiest way to use Git - http://blog.goguardian.com/nerds/ungit-the-easiest-way-to-use-git
+
+The majestic monolith - https://m.signalvnoise.com/the-majestic-monolith-29166d022228#.2ib0fypmn
+
+State of the art JavaScript in 2016 - https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.37u0xx9xi
+
+Rebuilding Git in Ruby - https://robots.thoughtbot.com/rebuilding-git-in-ruby
+
+How to Postgres - https://gist.github.com/dstrelau/416fcae9a290ea41904f
+
+Start Simple - https://robots.thoughtbot.com/start-simple
+
+Favicon Generator - http://realfavicongenerator.net/
+
+Require-from-twitter - https://gist.github.com/rauchg/5b032c2c2166e4e36713
+
+Problems with JavaScript - http://blog.christoffer.me/no-we-havent-forgotten-how-to-code-javascript-just-needs-to-become-a-better-language/
+
+What do you call this in Ruby - https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby
+
+Best JS resources - https://psdtowp.net/learn-javascript.html?utm_source=javascriptweekly&utm_medium=email
+
+Bootstrap 4 vs. 6.2 - https://dannyherran.com/2016/03/state-of-affairs-bootstrap-4-vs-foundation-6/
+
+Murky waters of script loading - https://www.html5rocks.com/en/tutorials/speed/script-loading/
+
+Destroy all software - https://www.destroyallsoftware.com/talks/boundaries
+
+Try Redis - http://try.redis.io/
+
+Safe operations for high volume Postgres - https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/
+
+Deploy Rails with nginx ubuntu unicorn - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-unicorn-and-nginx-on-ubuntu-14-04
+
+Why I don't use CSS preprocessors - http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/
+
+How to be a Programmer - https://github.com/braydie/HowToBeAProgrammer
+
+Represent Money in Ruby - http://www.tablexi.com/developers/money-in-ruby/#.WAPCRJMrJE4
+
+52 Technologies in 2016 - https://github.com/shekhargulati/52-technologies-in-2016
+
+Being a Developer after 40 - https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.ygqkxcq0s
+
+DevOps for Developers - https://speakerdeck.com/charity/devops-for-developers-building-an-effective-ops-org 
+
+Hiring Juniors - http://ryanbigg.com/2016/04/hiring-juniors/
+
+Properly close frozen SSH - https://infertux.com/posts/2012/12/20/properly-close-a-frozen-ssh-session/
+
+Server JS - https://www.betterment.com/resources/inside-betterment/engineering/server-javascript-a-single-page-app-toa-single-page-app/?utm_content=646556
+
+From QA to Engineering Productivity - https://testing.googleblog.com/2016/03/from-qa-to-engineering-productivity.html
+
+How we do Deployment - http://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/
+
+Ruby has been fast enough - https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7#.9f0jnip41
+
+Rails has won - http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room
+
+My time with Rails is up - http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html
+
+Writing consisten idiomatic JS - https://github.com/rwaldron/idiomatic.js
+
+Learn Docker by building a microservice - http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+
+Queries to monitor Postgres - https://github.com/nilenso/postgresql-monitoring
+
+WTF is Operations - https://charity.wtf/2016/05/31/wtf-is-operations-serverless/
+
+Improving the command line Postgres experience - https://robots.thoughtbot.com/improving-the-command-line-postgres-experience
+
+PGcasts - https://www.pgcasts.com/
+
+Fresh Install - https://gist.github.com/ivebencrazy/fef2711e2dcce5a75d51
+
+Getting started with Redux - https://egghead.io/courses/getting-started-with-redux
+
+SQL commands - https://www.codecademy.com/articles/sql-commands?r=master
+
+Cartoon guide to flux - https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.ynu5bdce5
+
+ES6 for humans - https://github.com/metagrover/ES6-for-humans
+
+Create app with no configuration - https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
+
+Hyper - https://hyper.is/
+
+Breaking up the asset pipeline - http://slides.com/alanpeabody/breaking-up-with-the-asset-pipeline#/
+
+SQLite and AR - http://www.integralist.co.uk/posts/active-record.html
+
+Uber engineering tech stack - https://eng.uber.com/tech-stack-part-one/
+
+Building CRUD interface with react ruby - http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails
+
+Custom JSOn with rails api - https://blog.engineyard.com/2015/active-model-serializers
+
+Postgres client for node - https://github.com/brianc/node-postgres
+
+Traits of a proficient programmer - https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer
+
+Why I use js function statements - https://medium.freecodecamp.com/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd#.vjp5cb63q
+
+REST apis with kafka streams - https://speakerdeck.com/bobbycalderwood/commander-decoupled-immutable-rest-apis-with-kafka-streams
+
+How browsers work - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Rendering_engines
+
+Constructing the object model - https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=en
+
+Understanding git for real - https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.dgllqnnbm
+
+Sad state of docker - http://www.linux-toys.com/?p=684
+
+Learnings from Learning how to Learn - https://medium.com/learn-love-code/learnings-from-learning-how-to-learn-19d149920dc4#.91ttzell4
+
+Code?! - http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+What is 'this' in JS - https://develoger.com/what-is-this-in-javascript-a3019629849#.1b22sdu3z
